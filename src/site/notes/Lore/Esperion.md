@@ -1,0 +1,11 @@
+---
+{"dg-home":false,"dg-publish":true,"permalink":"/lore/esperion/","dgPassFrontmatter":true}
+---
+
+Biały metal odkryty po stopnieniu Lodowca Lamberta. Pomimo usilnych prób niedostatecznie zbadany sprawca łysiny lub osiwienia niemal każdego naukowca, który próbował go zgłębić. Jego właściwości może nie są łatwo wytłumaczalne, są jednak możliwe do zaobserwowania goły okiem.
+
+Po pierwsze esperion wiąże się z atmosferą. Powoli - ale sukcesywnie. A zmieniona atmosfera zmienia warunki fizyczne planety w sposób nieregularny. Pierwszym co zaobserwowano to poszerzenie zdolności umysłowych części mieszkańców Ziemi. W przypadku inteligentnych istot dało im to zdolności paranormalne, do pewnego stopnia wyuczalne. W przypadku zwierząt, jest to znaczące poszerzenie zdolności intelektualnych. Następnie dostrzeżono, że część z technologicznych osiągnięć [[Rasy/Ludzie\|człowieka]] stało się niezdolne do odpowiedniego użytku. Broń palna zmniejszyła swoją siłę rażenia - ale na przykład łączność bezprzewodowa wysiadła niemal całkowicie. Zmian jest tak dużo, że znacząco zmieniło to warunki funkcjonowania społeczeństw.
+
+Kolejną niewiarygodną właściwością esperionu jest fakt, że użycie go do produkcji przedmiotów nasyca je dodatkowymi właściwościami - całkowicie zaprzeczającymi zdrowemu rozsądkowi. Obróbka esperionu jest trudna i dość niebezpieczna. Zwłaszcza, że temperatura topnienia tego metalu to 1856°C, co przekracza temperaturę topnienia stali, czy żelaza i wymusza budowę pieców specjalnego typu. Zwykle nie powstają przedmioty z czystego esperionu, gdyż panuje przekonanie, że domieszka esperionu nasyca resztę materiałów i daje niemal identyczny efekt. Ciekawą kwestią jest również zastyganie właściwości esperionu w niskich temperaturach. Począwszy od temperatury -10°C zaczynają ustawać fenomeny paranormalne, a esperion zdaje się stawać całkowicie zwykłym metalem przypominającym żelazo.
+
+Poza samymi zdolnościami fizycznymi, esperion spędza sen z powiek filozofom, kapłanom i wszystkim pozostałym, którzy starają się odpowiedzieć na fundamentalne pytania. W tej kwestii udało się jednak jak na razie jedynie ustalić, że esperion - istnieje.

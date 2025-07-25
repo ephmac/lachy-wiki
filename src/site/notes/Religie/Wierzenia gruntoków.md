@@ -1,0 +1,5 @@
+---
+{"dg-home":false,"dg-publish":true,"permalink":"/religie/wierzenia-gruntokow/","dgPassFrontmatter":true}
+---
+
+Gruntoki czczą życiodajne duchy ziemi oraz uważają wszelkie żyjące w niej robactwo za święte. Głodny gruntok jest w stanie zjeść dżdżownicę i odprawić rytuał dziękczynny, który sprowadza się do formy medytacji w pozycji leżącej, jednak nie zabije robaka bez powodu. Historia tych przekonań nie jest jasna, gdyż zdziczałe gruntoki nie przekazały swoim potomkom rzetelnej wiedzy. Przekazały jednak samą religię. Wiara w duchy ziemi nie jest w żaden sposób sformalizowana i jest raczej przeżywana indywidualnie lub wewnątrz rodziny. Gruntoki nie tworzą ołtarzy ale poziom dewocji wśród nich jest wysoki. W zasadzie większość z nich jednocześnie nie czuje się członkiem żadnego kultu i nie odprawia rytuałów - tylko po to by otrzeć się o depresję, gdy przypadkiem skrzywdzą najobrzydliwszego z karaluchów.

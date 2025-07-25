@@ -1,0 +1,48 @@
+---
+{"dg-home":false,"dg-publish":true,"permalink":"/miasta/krysztalowe-jaskinie/","dgPassFrontmatter":true}
+---
+
+![KrysztaloweJaskinie.webp|800](/img/user/Vault/Grafiki/Lore/KrysztaloweJaskinie.webp)
+
+> **Ustrój:** Republika Demokratyczna
+> **Liczba mieszkańców:** 65 000
+> **Przywódca:** [[Postacie/NPC/Zababa\|Zababa]], [[Postacie/NPC/Esperofretka Tiamat Pani Pióra\|Esperofretka Tiamat Pani Pióra]], [[Postacie/NPC/Utu-Zalim\|Utu-Zalim]]
+> **Imiona:** Starożytna Mezopotamia i Sumer
+> **Wygląd**: Sieć jaskiń z blado świecącymi kryształami oraz drewnianymi budynkami
+
+---
+
+### Władza i zarządzanie
+
+Kryształowe Jaskinie to miasto dość młode, powstałe z konieczności. Sytuacja na [[Lore/Wyspy\|Zefirionie]] bywa różna. Aktualnie panuje okres względnej stabilizacji, ale starsi wiedzą, że zwykle jest on tylko stanem przejściowym pomiędzy jedną wojną, a drugą. A wojna to tylko jedno z nieszczęść, które potrafi dotknąć mieszkańców. Głód, plagi, prześladowania. Przed tym wszystkim niejedna rodzina starała się uciec. Enklaw uciekinierów pojawia się wiele. Zwykle jednak szybko upadają. Kryształowe Jaskinie są chlubnym wyjątkiem. Z początku były tylko kryjówką dla garstki osób, jednak społeczność zaczęła się rozrastać. Brak silnego przywództwa z początku powodował konflikty. Wówczas człowiek, zapamiętany jako [[Postacie/NPC/Enkidu Złoty Filar\|Enkidu Złoty Filar]], mimo iż jego prawdziwe imię to Tomasz, zaproponował powszechne głosowania nad każdą z kluczowych spraw. Rozwiązanie to okazało się strzałem w dziesiątkę - na pierwsze kilka miesięcy. Bardzo szybko bowiem okazało się, że wraz ze wzrostem liczby mieszkańców, postępującym zobojętnieniem mieszkańców - oraz kreatywnym zastraszaniu swoich przeciwników, system wkrótce się rozpadnie. [[Postacie/NPC/Enkidu Złoty Filar\|Enkidu]] zabłysnął jednak po raz drugi odwołując się do starożytnej formy rządów zwanej demokracją. Chociaż próbowano stworzyć coś na kształt trójpodziału władzy, to ostatecznie udało się wykuć system dwóch filarów, wybieranych osobno w powszechnych, jednak jawnych wyborach. Jawność wyborów została wymuszona nieuczciwością podczas pierwszych prób. Odtąd każdy obywatel, a za takiego uważa się każdego, kto zamieszkuje Jaskinie przynajmniej rok i nie otrzymuje z tego tytułu zapłaty, osobiście popiera jednego z kandydatów w wyborach co dwa lata. Na zmianę wybierany jest główny sędzia, a dwa lata później prezydent miasta - skupiający w sobie zarówno kompetencje wykonawcze jak i ustawodawcze. Oczywiście obaj tworzą swoje struktury. Obaj, zarówno główny sędzia, jak i Prezydent pilnują siebie nawzajem aby nie przekraczali zasad demokracji - z różnym skutkiem. Mimo wszystko jednak należy zauważyć, że poziom nieuczciwości władzy jest stosunkowo niewielki, jeśli przyrównamy go do innych miast. Raz wybrany mieszkaniec nie ma prawa kandydować po raz drugi, a kampania wyborcza jest surowo zakazana. Chociaż zakaz ten jest kreatywnie łamany, to faktycznie zwykle lista kandydatów, ogłaszana tuż po zgłoszeniu się kandydatów - jest najczęściej sporą niespodzianką dla mieszkańców. Brak kampanii wyborczej oznacza, że trzeba już być szanowanym obywatelem aby w ogóle startować w wyborach z szansą na zwycięstwo. To jednak nie odstrasza naiwnych marzycieli za każdym razem. Tym samym niejednokrotnie kandydował lokalny pijaczek, a nawet w zeszłym roku wielokrotnie złapany na gorącym uczynku włamywacz. Aktualnie prezydentem jest [[Postacie/NPC/Zababa\|Zababa]], dość sprawny, chociaż niezbyt bogaty kupiec, a głównym sędzią od roku pierwsza wybrana kobieta i zarazem pierwsze wybrane [[Rasy/Neozwierzęta\|esperozwierzę]] - [[Postacie/NPC/Esperofretka Tiamat Pani Pióra\|Tiamat Pani Pióra]]. Młoda esperofretka, autorka serii powieści detektywistycznych, podbijających serca nie tylko Kryształowych Jaskiń. Ostatnim, nieformalnym filarem władzy jest [[Organizacje/Najemnicy Kryształowych Jaskiń\|wojsko]]. Formalnie jest ono zarządzane przez prezydenta, jednak w praktyce pomimo kolejnych wyborów, głównodowodzący nie został odwołany od 15 lat, a jego poprzednik sprawował tę funkcję przez ponad 20 lat. [[Postacie/NPC/Utu-Zalim\|Utu-Zalim]] wiekowy wojownik służący w młodości w kilku różnych miastach, dowodzi [[Organizacje/Najemnicy Kryształowych Jaskiń\|siłami obronnymi i porządkowymi]] Kryształowych Jaskiń. Jego zadanie jest o tyle trudne, że miasto nie posiada własnej milicji, ani żołnierzy. Zamiast tego zatrudnia [[Organizacje/Najemnicy Kryształowych Jaskiń\|najemników]]. [[Organizacje/Najemnicy Kryształowych Jaskiń\|Najemnicy]] nie są obywatelami, a zapanowanie nad ich temperamentem nie jest łatwe. Dodatkowo zawsze istnieje ryzyko, że zamiast bronić Jaskiń, postanowią je złupić. Dlatego [[Postacie/NPC/Utu-Zalim\|Utu-Zalim]] bardzo starannie dobiera poszczególne grupy i dba o to, by nie powstawały w nich żadne frakcje. Jego wiek jednak napawa przestrachem niejednego z obywateli, jako iż w chwili obecnej nikt nie potrafiłby wskazać na jego miejsce kompetentnego następcy.
+
+### Demografia
+
+Kryształowe Jaskinie są otwarte na każdą rasę. Może za wyjątkiem [[Rasy/Biodroidy\|biodroidów]], którzy jednak nie garną się do zamieszkania żadnego z osiedli. Mimo to, dwie z ras unikają osiedlania się w tym mieście ze względu na znikomy dostęp do słońca. Są to oczywiście [[Rasy/Floranci\|floranci]] i [[Rasy/Syntetyki\|syntetyki]]. Ci drudzy radzą sobie całkiem nieźle i w warunkach zamkniętych - ale wyraźnie tego nie lubią. W Jaskiniach można znaleźć silne przedstawicielstwo każdej z religii wysp, jednak najbardziej powszechny jest mimo wszystko brak wiary w cokolwiek.
+
+---
+
+Kryształowe Jaskinie mają dwa silne atuty strategiczne. Po pierwsze ograniczony dostęp terenowy - do Jaskiń oficjalnie można dostać się tylko dwoma wejściami. Istnieją co prawda inne wąskie ścieżki, jednak po pierwsze są ściśle pilnowane, po drugie nie ma możliwości transportu nimi transportu wojska albo towarów. Nawet pojedynczy [[Rasy/Ludzie\|człowiek]] ma problemy aby z nich korzystać. Chociaż oczywiście drobniejsze [[Rasy/Neozwierzęta\|esperozwierzęta]] często z nich korzystają. Oczywiście tylko obywatele miasta. Drugim atutem są kryształy, których złoża odkryte dopiero po latach pozwoliły miastu na rozwój. Część z kryształów, co zauważono od samego początku zdają się być w pewnym sensie naładowane, gdyż wydobywa się z nich blade światło. Tym samym w jaskiniach nie panują całkowite ciemności, co oznacza ograniczenie używania ognia, którego dym mógłby podusić mieszkańców. Wydobycie tychże jednak sprawia, że tracą swoją właściwość. Niektórzy powiązują ten fenomen z radioaktywnością całej sieci jaskiń. Jednak nie dostrzeżono aby wpływało to jakoś na zdrowie mieszkańców. Poza tym w jaskiniach można wydobyć diamenty, żółte szafiry oraz ametysty. Stanowią one podstawę utrzymania miasta. Jaskinie mają również dostęp do podziemnej rzeki, a tym samym do wody pitnej - a podstawą żywieniową są uprawy podziemnych grzybów i jadalnych korzeni.
+
+<!--
+Przykłady imion:
+	Imiona męskie z przydomkami: Enlil Złoty Lot, Tammuz Syn Mgły, Lugul Księżycowy Mędrzec, Naram Strażnik Glifów, Ishkur Zasłona Ciszy, Belu Głos Popiołu, Ashar Oblicze Pokoju, Zamar Krzyk Traw, Kudur Nosiciel Snów
+	
+	Imiona żeńskie z przydomkami: Ninsun Tancerka Pustki, Ishtar Matka Burzy, Kubaba Głos Lotosu, Enhedu Srebrna Cnota, Lilitu Pieśń Ognia, Ninlil Cień Poranka, Shamhat Szept Kamienia, Zarpanit Dłoń Chmur
+	
+	Mężczyźni: Urnam, Etana, Shulgi, Zamu, Amurru, Tiru, Balatu, Ibbi, Kishar, Nabu
+	
+	Kobiety: Ninti, Sura, Lillitu, Amatu, Dita, Bitu, Naru, Ashara, Nanna
+
+Opis na sesję - z zewnątrz
+	Podążając traktem przez gęsty, chłodny las, w końcu dostrzegacie skalne wzgórza, które wyłaniają się spośród drzew niczym ściana odgradzająca świat zewnętrzny od tajemniczej przestrzeni wewnątrz. Pośrodku wzgórz widać masywne wejście do jaskini, otoczone skromnymi, lecz solidnymi fortyfikacjami. Drewniane palisady i strażnice z kamienia stoją na straży, świadcząc o tym, że to miejsce jest nie tylko zamieszkałe, ale i chronione.
+	
+	Przed wejściem panuje zaskakujący ruch. Grupy podróżnych z różnych stron wyspy zatrzymują się przy wozach, ładując towary lub wymieniając się plotkami. Kilku strażników, prawdopodobnie najemników, obserwuje przybyszy z mieszanką rutyny i czujności. Powietrze jest pełne przytłumionych rozmów, stukotu końskich kopyt i skrzypienia kół, które odbijają się echem od skał.
+
+Opis na sesję - wewnątrz
+	Kiedy przekraczacie progi Kryształowych Jaskiń, wita was widok, jakiego trudno się było spodziewać. Ściany jaskiń pokryte są mieniącymi się kryształami, które emitują delikatne światło, oświetlając wnętrze bez potrzeby używania ognia. Miasto zdaje się wyrastać z naturalnej struktury jaskiń — drewniane budynki o prostych, surowych kształtach wtapiają się w skały, a wąskie ścieżki wiją się między nimi niczym labirynt.
+	
+	W powietrzu unosi się charakterystyczny zapach wilgoci i ziemi, a od czasu do czasu wyczuwalna jest woń pieczonych grzybów i innych podziemnych przysmaków, które stanowią podstawę wyżywienia mieszkańców. Gdzieś w oddali słychać odgłosy młotów i kilofów, które przypominają o głównym źródle dochodów miasta — kryształach i kamieniach szlachetnych.
+	
+	Przechodząc dalej, mijacie zarówno zamożnie wyglądające osoby, których ubrania świadczą o handlu drogimi kamieniami, jak i prostych robotników, odzianych w robocze stroje i pokrytych pyłem ze skał. Miasto tętni spokojnym, uporządkowanym życiem, które zdaje się być idealnie dostosowane do warunków podziemi. Jednak co chwilę można zauważyć najemników krążących między mieszkańcami, przypominających, że to miejsce nie jest tak spokojne, jak się wydaje na pierwszy rzut oka.
+-->
