@@ -12,4 +12,8 @@
 
 ---
 
-Ojciec [[Postacie/Drużyna/Rune\|Rune'a]] i [[Postacie/NPC/Elizawieta 'Liza' Woronowa\|Lizy]]. Zamordowany wiele lat temu w niewyjaśnionych okolicznościach.
+Ojciec [[Postacie/Drużyna/Rune\|Rune'a]] i [[Postacie/NPC/Elizawieta 'Liza' Woronowa\|Lizy]] oraz oczywiście mąż ich [[Postacie/NPC/Matka Rune'a\|matki]].
+
+<!--
+Zamordowany wiele lat temu w niewyjaśnionych okolicznościach.
+-->

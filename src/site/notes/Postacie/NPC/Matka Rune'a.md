@@ -12,4 +12,8 @@
 
 ---
 
-Matka [[Postacie/Drużyna/Rune\|Rune'a]] i [[Postacie/NPC/Elizawieta 'Liza' Woronowa\|Lizy]]. Zamordowana wiele lat temu w niewyjaśnionych okolicznościach.
+Matka [[Postacie/Drużyna/Rune\|Rune'a]] i [[Postacie/NPC/Elizawieta 'Liza' Woronowa\|Lizy]] oraz oczywiście żona ich [[Postacie/NPC/Ojciec Rune'a\|ojca]]. 
+
+<!--
+Zamordowana wiele lat temu w niewyjaśnionych okolicznościach.
+-->
